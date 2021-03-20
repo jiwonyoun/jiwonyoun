@@ -1,1 +1,1 @@
-<p align:center> Test Profile 🦊🐰</p>
+<h2 align="center">Test Profile 🦊🐰</h2>
