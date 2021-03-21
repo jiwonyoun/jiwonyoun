@@ -1,8 +1,6 @@
 <h2 align='center'>𝙅𝙄𝙒𝙊𝙉𝙔𝙊𝙐𝙉 🦊🐰</h2>
 
-<hr>
-
-<h2 align='center'>🆃🅴🅲🅷</h3>
+<p align='center'>🆃🅴🅲🅷</p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/JavaScript-FFCE00?style=flat-square&logo=JavaScript&logoColor=black"/>
