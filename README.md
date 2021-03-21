@@ -1,6 +1,6 @@
-<h1 align='center'>ᴊɪᴡᴏɴ ʏᴏᴜɴ 🦊🐰</h2>
-
-<h2 align='center'>🆃🅴🅲🅷</h2>
+<h3 align='center'>ᴊɪᴡᴏɴ ʏᴏᴜɴ 🦊🐰</h2>
+ 
+<h4 align='center'>T E C H</h2>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/JavaScript-FFCE00?style=flat-square&logo=JavaScript&logoColor=black"/>
