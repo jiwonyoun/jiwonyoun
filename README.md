@@ -1,7 +1,5 @@
 &nbsp;
-&nbsp;
 <h1 align='center'>ᴊɪᴡᴏɴ ʏᴏᴜɴ 🦊🐰</h2>
-&nbsp;
 &nbsp;
  
 <h3 align='center'>T E C H</h2>
